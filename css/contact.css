@@ -1,0 +1,23 @@
+.card-cover:hover{
+	opacity:.5;
+}
+
+.card-img-top {
+    width: 20vw;
+    height: 15vw;
+    object-fit: cover;
+	border-width:7px;
+	border-color:black;
+}
+
+.contact-container{
+	border:3px solid black;
+	padding: 3vw;
+	
+}
+
+.contact-button-container{
+	margin-top: 2rem;
+}
+
+

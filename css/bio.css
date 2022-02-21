@@ -1,0 +1,18 @@
+
+.bio{
+	margin-top: 3rem;
+	margin-left: 3.5rem;
+	margin-right:3.5rem;
+}
+
+.image-bio{
+	position:relative;
+	left:50%;
+	transform:translate(-50%);
+	margin-top:2rem;
+}
+
+.text-bio{
+	margin-left: 3rem;
+	margin-right:3rem
+}
